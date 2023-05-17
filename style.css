@@ -1,0 +1,61 @@
+    @font-face {
+        font-family: fonte ;
+        src: url(Monday\ Miracle.otf);
+        font-style: normal;
+        font-weight: normal;
+    }
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: url(th.jpg);
+  
+      }
+      
+      header {
+        background-image: url(fundos-para-fotos-preto\ \(2\).jpg);
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+        background-attachment: fixed;
+        font-family: fonte ;
+        font-size: 2em;
+      }
+      
+      nav {
+        background-image: url(fundos-para-fotos-preto\ \(2\).jpg);
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+      }
+      
+      nav a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+      }
+      
+      section {
+        padding: 20px;
+        margin: 150px;
+        background-color: white;
+        border-radius: 20px;
+      }
+  
+      p{
+          text-align: justify;
+      }
+  
+      img{
+          margin: 45px;
+      }
+
+
+      
+      
+      footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
